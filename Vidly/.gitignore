@@ -1,0 +1,9 @@
+# Ignore Node modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore compiled JavaScript files
+dist/
+
